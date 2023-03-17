@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantmentx",
+  "version": "${version}",
+
+  "name": "Enchantment X",
+  "description": "End Game Enchantment Mod",
+  "authors": [
+    "LordBee222"
+  ],
+  "contact": {
+    "homepage": "https://github.com/LordBee222",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.lordbee.enchantmentx.EnchantmentXMod"
+    ]
+  },
+  "mixins": [
+    "enchantmentx.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

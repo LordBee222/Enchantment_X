@@ -1,0 +1,91 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:skeleton_skull"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_sand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_sandstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cut_red_sandstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_red_sandstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:smooth_red_sandstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cactus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dead_bush"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:yellow_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_gray_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rail"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:minecart"
+        }
+      ]
+    }
+  ]
+}
